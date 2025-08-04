@@ -16,4 +16,6 @@ public class Names {
 	public static void PrintEricSig() {
 		System.out.println(Hi i am adras);
 	}
+	public static void PrintMallickSig() {
+		System.out.println(Hello its mallick); }
 }
